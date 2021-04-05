@@ -1,0 +1,11 @@
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\bin\Debug\mappinbg.exe.config
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.vbprojResolveAssemblyReference.cache
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.Form1.resources
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.Resources.resources
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.vbproj.GenerateResource.Cache
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\bin\Debug\mappinbg.exe
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\bin\Debug\mappinbg.pdb
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\bin\Debug\mappinbg.xml
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.exe
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.xml
+c:\users\tioluwanimi\documents\visual studio 2015\Projects\mappinbg\mappinbg\obj\Debug\mappinbg.pdb
